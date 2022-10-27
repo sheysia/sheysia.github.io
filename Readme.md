@@ -1,6 +1,5 @@
 # Github for Sasha Deng
 ## sheysia.github.io
-## [Linked In: Sasha Deng](https://www.linkedin.com/in/sasha-deng-1a5326100/)
 
 ============================
 ![My logo](/images/IMG_3475.jpg)
