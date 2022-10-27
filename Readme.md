@@ -1,4 +1,4 @@
-# Github my repo created for CIT281 15 U
+# Github for Sasha Deng
 ## sheysia.github.io
 
 ============================
